@@ -7,8 +7,9 @@ function happyHolidaysTo(name){
   console.log("Happy holidays, ${name}!")
 }
 
-function happyHolidayTo()
-
+function happyHolidayTo(holiday, name) {
+  console.log("Happy ${holiday}, ${name}!")
+}
 
 // 1. Write a function named `happyHolidays`. This function should not accept any
 //parameters and should return the string `"Happy holidays!"`.
