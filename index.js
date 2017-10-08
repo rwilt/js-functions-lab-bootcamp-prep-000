@@ -2,4 +2,4 @@
 function happyHolidays(string)
 return "Happy Holidays!"
 
-happyHolidays()
+happyHolidays(hello!)
