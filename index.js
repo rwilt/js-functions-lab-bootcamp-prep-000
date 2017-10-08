@@ -5,15 +5,15 @@ return 'Happy holidays!'
 }
 
 function happyHolidaysTo(name) {
-  console.log(Happy holidays, ${name}!`)
+  console.log(`Happy holidays, ${name}!`)
 }
 
 function happyHolidayTo(holiday, name) {
-  return "Happy ${holiday}, ${name}!"
+  return  `Happy ${holiday}, ${name}!`
 }
 
 function holidayCountdown(days, holiday) {
-  return "It\'s ${days} days until ${holiday}!"
+  return `It\'s ${days} days until ${holiday}!`
 }
 
 // 1. Write a function named `happyHolidays`. This function should not accept any
