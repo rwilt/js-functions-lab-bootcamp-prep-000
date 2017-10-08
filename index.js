@@ -9,7 +9,7 @@ function happyHolidaysTo(name) {
 }
 
 function happyHolidayTo(holiday,name) {
-  return 'Happy ${holiday},${name}!'
+  return 'Happy ${holiday}, ${name}!'
 }
 
 // 1. Write a function named `happyHolidays`. This function should not accept any
