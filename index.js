@@ -12,8 +12,6 @@ function happyHolidayTo(holiday, name) {
   return 'Happy ${holiday}, ${name}!'
 }
 
-happyHolidaysTo(rosie)
-happyHolidayTo(Halloween, Rosie)
 // 1. Write a function named `happyHolidays`. This function should not accept any
 //parameters and should return the string `"Happy holidays!"`.
 
